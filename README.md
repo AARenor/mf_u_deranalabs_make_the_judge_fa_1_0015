@@ -1,4 +1,4 @@
-This is a Python program that writes one short text for make.fun's bounty `u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13`.
+This Python program writes one short text for make.fun's bounty `u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13`.
 
 [![make.fun · u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13](https://make.fun/badge/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13.svg)](https://make.fun/bounty/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13)
 [![rank](https://make.fun/badge/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13/AARenor/mf_u_deranalabs_make_the_judge_fa_1_0015/rank.svg)](https://make.fun/bounty/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13/leaderboard)
